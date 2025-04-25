@@ -1,1 +1,1 @@
-C:\Users\mrx\Documents\dev\Abismo\RUST\exercicios\exercicio-matrizes-alinhadas\target\debug\exercicio-matriz.exe: C:\Users\mrx\Documents\dev\Abismo\RUST\exercicios\exercicio-matrizes-alinhadas\src\main.rs
+C:\Users\mrx\Documents\dev\Abismo\RUST\exercicios\desafio01-matrizes-alinhadas\target\debug\exercicio-matriz.exe: C:\Users\mrx\Documents\dev\Abismo\RUST\exercicios\desafio01-matrizes-alinhadas\src\main.rs

@@ -1,0 +1,1 @@
+C:\Users\mrx\Documents\dev\Abismo\RUST\parser-json\target\debug\json_parser_str.exe: C:\Users\mrx\Documents\dev\Abismo\RUST\parser-json\src\lib.rs C:\Users\mrx\Documents\dev\Abismo\RUST\parser-json\src\main.rs
